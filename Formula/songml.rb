@@ -1,9 +1,9 @@
 class Songml < Formula
   desc "CLI tool to parse SongML format and generate lyric/chord overlays"
   homepage "https://github.com/fluxtah/songml"
-  url "https://github.com/fluxtah/songml/releases/download/v0.16/songml-all.jar"
-  sha256 "3523e0084fd1ae88d3ab926ee95aeb89d0cdbb546b114058317b11ce73925bed"
-  version "v0.16"
+  url "https://github.com/fluxtah/songml/releases/download/v0.17/songml-all.jar"
+  sha256 "1de97ff7a76ef478047f26b002d050cb08b1ea6e15279cc5a515be3a0eae97ba"
+  version "v0.17"
 
   depends_on "openjdk"
 
